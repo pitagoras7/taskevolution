@@ -19,7 +19,7 @@ sudo apt-get install apache2
 # Install mysql Version > 5
 sudo apt-get install mysql-server mysql-client
 
-# Clone this repo  https://github.com/pitagoras7/taskevolution in /var/www/
+# Clone this repo  https://github.com/pitagoras7/taskevolution.git in /var/www/
 git clone && cd  taskevolution
 
 # Configure with the parameters of the database Mysql
